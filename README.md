@@ -19,4 +19,7 @@ The scope of the project is based on real time application.
 3.	If the range of any condition exceeds then cloud will give an alert to the user.
 
 ### IoT Architecture
+![Architecture](https://user-images.githubusercontent.com/70309589/159110256-16963ac7-dc29-4a12-9b3f-d4dda46da45e.png)
+
+### Communication Architecture
 
