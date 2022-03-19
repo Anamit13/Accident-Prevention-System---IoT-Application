@@ -22,4 +22,5 @@ The scope of the project is based on real time application.
 ![Architecture](https://user-images.githubusercontent.com/70309589/159110256-16963ac7-dc29-4a12-9b3f-d4dda46da45e.png)
 
 ### Communication Architecture
+![communications](https://user-images.githubusercontent.com/70309589/159110299-79e3900b-b945-4ee7-90d3-c0204b0e5656.png)
 
